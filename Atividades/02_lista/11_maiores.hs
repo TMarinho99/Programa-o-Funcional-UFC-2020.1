@@ -1,0 +1,1 @@
+maiores y xs = [x | x <- xs, x > y]

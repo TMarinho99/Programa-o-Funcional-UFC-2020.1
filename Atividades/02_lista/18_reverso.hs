@@ -1,0 +1,1 @@
+reverso xs = reverse xs

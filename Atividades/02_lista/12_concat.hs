@@ -1,0 +1,1 @@
+concatenar xs ys = concat [xs,ys]
